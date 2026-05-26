@@ -1,0 +1,22 @@
+{
+  "name": "maxwell-carbon-theme",
+  "displayName": "Maxwell Carbon Theme",
+  "description": "A dark, low-contrast carbon VS Code theme with chartreuse accents.",
+  "version": "0.0.1",
+  "publisher": "maxludden",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Maxwell Carbon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maxwell-carbon-theme.jsonc"
+      }
+    ]
+  }
+}

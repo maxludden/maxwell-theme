@@ -1,0 +1,9 @@
+# Files and directories to exclude when packaging this extension
+
+node_modules
+.vscode
+dist
+coverage
+**/*.log
+**/*.tsbuildinfo
+**/.DS_Store
