@@ -4,6 +4,10 @@
   "description": "A dark, low-contrast carbon VS Code theme with chartreuse accents.",
   "version": "0.0.1",
   "publisher": "maxludden",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxludden/maxwell-theme.git"
+  },
   "engines": {
     "vscode": "^1.90.0"
   },
